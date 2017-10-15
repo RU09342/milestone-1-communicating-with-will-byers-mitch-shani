@@ -1,0 +1,15 @@
+# FIXED
+
+milestone_1.obj: ../milestone_1.c
+milestone_1.obj: C:/ti/ccsv6/ccs_base/msp430/include/msp430.h
+milestone_1.obj: C:/ti/ccsv6/ccs_base/msp430/include/msp430f5529.h
+milestone_1.obj: C:/ti/ccsv6/ccs_base/msp430/include/in430.h
+milestone_1.obj: C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/intrinsics.h
+milestone_1.obj: C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/intrinsics_legacy_undefs.h
+
+../milestone_1.c: 
+C:/ti/ccsv6/ccs_base/msp430/include/msp430.h: 
+C:/ti/ccsv6/ccs_base/msp430/include/msp430f5529.h: 
+C:/ti/ccsv6/ccs_base/msp430/include/in430.h: 
+C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/intrinsics.h: 
+C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/intrinsics_legacy_undefs.h: 
