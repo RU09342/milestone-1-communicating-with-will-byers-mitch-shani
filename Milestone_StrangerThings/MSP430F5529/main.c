@@ -95,8 +95,8 @@ void __attribute__ ((interrupt(USCI_A0_VECTOR))) USCI_A0_ISR (void)
 		}
 
 		// Write all of the other values
-		else if (byteCnt < numBytes)
-				{
+		else if (byteCnt < numBytes) {
+			// Add to message to send out
 			message[i] = rx;
 			i++;
 			byteCnt++;
